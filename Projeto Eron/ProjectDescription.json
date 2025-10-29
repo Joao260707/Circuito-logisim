@@ -3,7 +3,7 @@
   "DLSVersion_LastSaved": "2.1.6",
   "DLSVersion_EarliestCompatible": "2.0.0",
   "CreationTime": "2025-09-03T21:06:42.613-03:00",
-  "LastSaveTime": "2025-10-28T21:09:15.968-03:00",
+  "LastSaveTime": "2025-10-28T21:28:38.509-03:00",
   "Prefs_MainPinNamesDisplayMode": 2,
   "Prefs_ChipPinNamesDisplayMode": 2,
   "Prefs_GridDisplayMode": 0,
@@ -20,7 +20,8 @@
     "XNOR",
     "And",
     "HallfAdder",
-    "FullAdder"
+    "FullAdder",
+    "ForBitAdder"
   ],
   "StarredList":[
     {
@@ -42,6 +43,10 @@
     {
       "Name":"MERGE/SPLIT",
       "IsCollection":true
+    },
+    {
+      "Name":"ForBitAdder",
+      "IsCollection":false
     }
   ],
   "ChipCollections":[
