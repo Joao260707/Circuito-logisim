@@ -52,45 +52,23 @@
   ],
   "SubChips":[
     {
-      "Name":"OR",
-      "ID":39271118,
+      "Name":"XOR",
+      "ID":404027238,
       "Label":"",
       "Position":{
-        "x":-14.28585,
-        "y":-1.44348
+        "x":-19.25916,
+        "y":-1.29571
       },
-      "OutputPinColourInfo":[{"PinColour":0,"PinID":304840180}],
+      "OutputPinColourInfo":[{"PinColour":0,"PinID":320306117}],
       "InternalData":null
     },
     {
       "Name":"NOT",
-      "ID":962723378,
+      "ID":325948465,
       "Label":"",
       "Position":{
-        "x":-21.67558,
-        "y":2.05746
-      },
-      "OutputPinColourInfo":[{"PinColour":0,"PinID":2042167955}],
-      "InternalData":null
-    },
-    {
-      "Name":"NOT",
-      "ID":1008683574,
-      "Label":"",
-      "Position":{
-        "x":-21.74455,
-        "y":-4.2072
-      },
-      "OutputPinColourInfo":[{"PinColour":0,"PinID":2042167955}],
-      "InternalData":null
-    },
-    {
-      "Name":"NOT",
-      "ID":1311136769,
-      "Label":"",
-      "Position":{
-        "x":-10.98542,
-        "y":-1.5519
+        "x":-15.51062,
+        "y":-1.45069
       },
       "OutputPinColourInfo":[{"PinColour":0,"PinID":2042167955}],
       "InternalData":null
@@ -103,8 +81,8 @@
         "PinOwnerID":1336161550
       },
       "TargetPinAddress":{
-        "PinID":1208636907,
-        "PinOwnerID":962723378
+        "PinID":1336161550,
+        "PinOwnerID":404027238
       },
       "ConnectionType":0,
       "ConnectedWireIndex":-1,
@@ -117,8 +95,8 @@
         "PinOwnerID":2028027149
       },
       "TargetPinAddress":{
-        "PinID":1208636907,
-        "PinOwnerID":1008683574
+        "PinID":2028027149,
+        "PinOwnerID":404027238
       },
       "ConnectionType":0,
       "ConnectedWireIndex":-1,
@@ -127,12 +105,12 @@
     },
     {
       "SourcePinAddress":{
-        "PinID":304840180,
-        "PinOwnerID":39271118
+        "PinID":320306117,
+        "PinOwnerID":404027238
       },
       "TargetPinAddress":{
         "PinID":1208636907,
-        "PinOwnerID":1311136769
+        "PinOwnerID":325948465
       },
       "ConnectionType":0,
       "ConnectedWireIndex":-1,
@@ -142,7 +120,7 @@
     {
       "SourcePinAddress":{
         "PinID":2042167955,
-        "PinOwnerID":1311136769
+        "PinOwnerID":325948465
       },
       "TargetPinAddress":{
         "PinID":0,
